@@ -1,0 +1,2 @@
+learning rate,num_epochs,num_sythetic_data,training_mse,training_mae,test_mse,test_mae,test_acp
+0.001,100,1000,5.251063830322689,3.9318277875464966,4.387900969084903,2.9439426246764406,18.0
